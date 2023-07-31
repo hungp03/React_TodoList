@@ -7,4 +7,7 @@ This is a code repository of a todo app
 - [Material UI](https://mui.com/)
 
 Setup:
-- run ```npm i && npm start```
+- Node.js installation required
+- This React code is based on [Vite.js](https://vitejs.dev/), to run this code, type in terminal:
+```npm install```, afterward type: ```npm run dev```
+
