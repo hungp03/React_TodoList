@@ -1,0 +1,15 @@
+.Title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
+.Title h1{
+    text-align: center;
+}
+
+.Title img{
+   width: 3rem;
+   height: 3rem;
+   margin: 0 0.5em 0.5em 0
+}
