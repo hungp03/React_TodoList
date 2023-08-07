@@ -11,6 +11,7 @@ This is a code repository of a todo app
 
 Setup:
 - Node.js installation required
-- This React code is based on [Vite.js](https://vitejs.dev/), to run this code, type in terminal:
-```npm install```, afterward type: ```npm run dev```
+- This React code is based on [Vite.js](https://vitejs.dev/)
+- Install necessary packages: ```npm install```
+- Run: ```npm start```
 
