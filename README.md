@@ -1,7 +1,7 @@
 # React To-do List
 
 ## Introduction
-This is a code repository of a todo app
+The to-do app is a simple and effective to-do list and task management app. It helps you allocate time to tasks more appropriately
 
 ## Library 
 - [Material UI](https://mui.com/)
@@ -11,7 +11,6 @@ This is a code repository of a todo app
 
 Setup:
 - Node.js installation required
-- This React code is based on [Vite.js](https://vitejs.dev/)
 - Install necessary packages: ```npm install```
 - Run: ```npm start```
 
